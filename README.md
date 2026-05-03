@@ -88,7 +88,7 @@ Mensaje utilizado en el código: VIVA ESPANYA
 
 ## 📊 Ejemplo de salida
 
-
+```text
 ======================================
  TARJETA DETECTADA
 ======================================
